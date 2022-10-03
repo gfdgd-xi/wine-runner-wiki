@@ -17,7 +17,6 @@
 | $MAKER | 解释器作者列表 |
 | $COPYRIGHT | |
 | $PLATFORM | 系统版本（Windows/Linux） |
-| $DEBUG | 用户是否有指定`--debug`参数（`--debug`参数请见后） |
 
 ## 命令
 ### 命令列表
@@ -37,7 +36,6 @@
 | `error` | 显示错误对话框 | 2 | 标题+显示内容 |
 | `warning` | 显示警告对话框 | 2 | 标题+显示内容 |
 | `exit` | 退出程序 | 0 | - |
-| `bash` | 执行 bash 命令（在 Windows 系统将执行 cmd 命令） | ≥1 | 接要执行的命令 |
 | `bat` | 执行 cmd 命令在 Wine 容器内（在 Windows 将在系统执行命令） | ≥1 | 接要执行的命令 |
 | `version` | 显示解释器版本（Wine 运行器版本） | 0 | - |
 | `thank` | 显示谢明列表 | 0 | - |
@@ -51,8 +49,15 @@
 | `winecfg` | 显示“Wine 设置” | 0 | - |
 | `winver` | 显示“关于 Wine” | 0 | - |
 | `changeversion` | 更改 Wine 容器系统版本（未实现） | - | - |
-| `cat` | 显示指定文件（只支持显示编码为`UTF-8`的文件） | 1 | 文件路径 |
-
+| `enabledhttpproxy` | 设置指定容器代理 | 2 | 代理服务器地址+端口 |
+| `disbledhttpproxy` | 禁用指定容器代理 | 0 | - |
+| `enabledwinecrashdialog` | 启用 Wine 容器程序崩溃提示窗口 | 0 | - |
+| `disbledwinecrashdialog` | 禁用 Wine 容器程序崩溃提示窗口 | 0 | - |
+| `disbledWinebottlecreatelink` | 禁止 Wine 容器生成快捷方式 | 0 | - |
+| `enabledWinebottlecreatelink` | 允许 Wine 容器生成快捷方式 | 0 | - |
+| `control` | 打开控制面板 | 0 | - |
+| `taskmgr` | 打开任务管理器 | 0 | - |
+| `killallwineserver` | 杀死所有 Wine 程序 | 0 | - |
 # 解释器
 ## 调用
 ### GUI 方式调用
