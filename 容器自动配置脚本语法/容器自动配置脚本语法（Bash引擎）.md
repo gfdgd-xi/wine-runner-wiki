@@ -81,6 +81,17 @@ gfdgd_xi@gfdgdxi-PC:~$
 ```
 在此环境输入命令进行测试即可
 
+## 指定解释器
+在 sh 文件头部添加以下内容即可调用（需要安装 Wine 运行器）：  
+```bash
+#!/usr/bin/env deepin-wine-runner-auto-install-bash
+```
+如：  
+```bash
+#!/usr/bin/env deepin-wine-runner-auto-install-bash
+installmono
+```
+
 ## 参数
 ### 读取的环境变量
 | 环境变量 | 介绍 |
