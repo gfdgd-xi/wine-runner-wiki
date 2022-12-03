@@ -17,6 +17,8 @@ deletexMenu.triggered.connect(deletex)
 我们引用 Deepin 论坛版主大大的一句话：  
 > 建议所有人 抵制 exePro ，为了自身利益，其采取的手段包括但不限于攻击 @gfdgd xi 的服务器，辱骂统信 UOS 用户，提供卸载 Wine 运行器 的功能，其行为已构成不正当竞争，并威胁到统信软件的名誉权。
 > ![2b0bb83e5c249aaafeea8e2ab36a0d5.png](https://storage.deepin.org/thread/202212031313268010_2b0bb83e5c249aaafeea8e2ab36a0d5.png)
+
+
 ## 为何有攻击 @gfdgd xi 的服务器？
 他自己都说了：  
 ![QQ图片20221203105057.jpg](https://storage.deepin.org/thread/20221203105113783_QQ图片20221203105057.jpg)  
