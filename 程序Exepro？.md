@@ -92,3 +92,7 @@ if "UOS" in platform.version() or "Union" in platform.version():
     quit()
 
 ```
+
+## Exepro 13Alpha2 下载地址：
+可见：https://gfdgdxi.lanzoue.com/icqdx0hmkkej
+最新版本的 Exepro 可见：https://setup.lanzoum.com/b03doi60f 密码:exepro  
