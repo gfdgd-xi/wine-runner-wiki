@@ -16,8 +16,6 @@ deletexMenu.triggered.connect(deletex)
 ![image.png](https://storage.deepin.org/thread/202212031020321968_image.png)  
 我们引用 Deepin 论坛版主大大的一句话：  
 > 建议所有人 抵制 exePro ，为了自身利益，其采取的手段包括但不限于攻击 @gfdgd xi 的服务器，辱骂统信 UOS 用户，提供卸载 Wine 运行器 的功能，其行为已构成不正当竞争，并威胁到统信软件的名誉权。
-> ![2b0bb83e5c249aaafeea8e2ab36a0d5.png](https://storage.deepin.org/thread/202212031313268010_2b0bb83e5c249aaafeea8e2ab36a0d5.png)
-
 
 ## 为何有攻击 @gfdgd xi 的服务器？
 他自己都说了：  
@@ -94,7 +92,3 @@ if "UOS" in platform.version() or "Union" in platform.version():
     quit()
 
 ```
-
-## Exepro 13Alpha2 下载地址：
-可见：https://gfdgdxi.lanzoue.com/icqdx0hmkkej
-最新版本的 Exepro 可见：https://setup.lanzoum.com/b03doi60f 密码:exepro  
