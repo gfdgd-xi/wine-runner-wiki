@@ -29,4 +29,12 @@ env WINEPREFIX=容器路径 wine（wine的路径） 可执行文件路径
 
 [![star](https://gitee.com/gfdgd-xi/deep-wine-runner/badge/star.svg?theme=dark)](https://gitee.com/gfdgd-xi/deep-wine-runner/stargazers)[![fork](https://gitee.com/gfdgd-xi/deep-wine-runner/badge/fork.svg?theme=dark)](https://gitee.com/gfdgd-xi/deep-wine-runner/members)
 
+## 程序地址
+- [https://gitee.com/gfdgd-xi/deep-wine-runner](https://gitee.com/gfdgd-xi/deep-wine-runner)
+- [https://github.com/gfdgd-xi/deep-wine-runner](https://github.com/gfdgd-xi/deep-wine-runner)
+- [https://gitlink.org.cn/gfdgd_xi/deep-wine-runner](https://gitlink.org.cn/gfdgd_xi/deep-wine-runner)
+- [https://code.gitlink.org.cn/gfdgd_xi/deep-wine-runner](https://code.gitlink.org.cn/gfdgd_xi/deep-wine-runner)
+- [https://jihulab.com/gfdgd-xi/deep-wine-runner](https://jihulab.com/gfdgd-xi/deep-wine-runner)
+- [https://gitlab.com/gfdgd-xi/deep-wine-runner](https://gitlab.com/gfdgd-xi/deep-wine-runner)
+
 # ©2020~Now gfdgd xi、为什么您不喜欢熊出没和阿布呢
