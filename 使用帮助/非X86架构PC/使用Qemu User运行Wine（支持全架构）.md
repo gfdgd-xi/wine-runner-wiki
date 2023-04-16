@@ -1,4 +1,4 @@
-# 使用Qemu User运行Wine（支持全架构）
+# 使用Qemu User运行Wine（理论支持全架构）
 ## 提醒
 Qemu 的转换效率较低，如果可以的话建议使用其它方案以提升运行效率  
 此方案理论上支持全架构（**amd64、arm64、mips64、loongarch64、riscv64、ppc64、s390x……**），只要能跑 Qemu User 即可，在 x86、arm64 真机测试通过  
