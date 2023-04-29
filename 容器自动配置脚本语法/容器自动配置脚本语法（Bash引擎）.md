@@ -75,7 +75,7 @@
 gfdgd_xi@gfdgdxi-PC:~$ /opt/apps/deepin-wine-runner/AutoShell/main.py  
 Wine 运行器自动配置文件解析器交互环境（基于 Bash）
 版本：2.3.0
-©2020~2022 gfdgd xi、为什么您不喜欢熊出没和阿布呢
+©2020~2022 gfdgd xi
 --------------------------------------------------------------
 gfdgd_xi@gfdgdxi-PC:~$
 ```
@@ -143,4 +143,4 @@ rd /s /q C:\\
 1. 指定 dll 时建议用编号，或者dll命令+系统版本+位数（未实现）
 2. ……
 
-# ©2020~Now gfdgd xi、为什么您不喜欢熊出没和阿布呢
+# ©2020~Now gfdgd xi

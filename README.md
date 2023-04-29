@@ -37,4 +37,4 @@ env WINEPREFIX=容器路径 wine（wine的路径） 可执行文件路径
 - [https://jihulab.com/gfdgd-xi/deep-wine-runner](https://jihulab.com/gfdgd-xi/deep-wine-runner)
 - [https://gitlab.com/gfdgd-xi/deep-wine-runner](https://gitlab.com/gfdgd-xi/deep-wine-runner)
 
-# ©2020~Now gfdgd xi、为什么您不喜欢熊出没和阿布呢
+# ©2020~Now gfdgd xi
